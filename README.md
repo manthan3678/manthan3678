@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manthan3678&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan3678&layout=compact&theme=radical" width="300"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manthan3678&theme=transparent&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 ### 🔍 Profile Insights
