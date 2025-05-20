@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manthan Gedam</h1>
-<h4 align="center"> A Creative MERN Stack Developer from India who loves building clean, dynamic, and user-friendly web experiences</h4>
+<h3 align="center"> A Creative MERN Stack Developer from India who loves building clean, dynamic, and user-friendly web experiences</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/2190815012/vector/programmer-with-laptop-man-writes-code-for-program-and-application-freelancer-and-remote.jpg?s=612x612&w=0&k=20&c=fxsZ3w_sJLmZQ0oGxSTKkna6iZP8VIKYL_9-xBQnRwQ=" />
 
