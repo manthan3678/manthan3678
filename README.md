@@ -61,5 +61,5 @@
 
 ---
 
-> ✨ _Striving to build scalable, stunning, and performance-oriented web apps with passion and precision.
+> ✨ _Striving to build scalable, stunning, and performance-oriented web apps with passion and precision_.
 
